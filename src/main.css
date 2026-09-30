@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #4b90f8;
+}
+
+model-viewer{
+    width: 100%; 
+    height: 100vh;
+}
